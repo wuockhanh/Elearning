@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Elearning.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20220612164612_Elearning")]
+    [Migration("20220612173513_Elearning")]
     partial class Elearning
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
